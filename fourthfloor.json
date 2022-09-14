@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/csteinm\/workadeventure\/blob\/main\/KreuzUndQuer.pdf"
+                 "value":"https:\/\/csteinm.github.io\/workadeventure\/KreuzUndQuer.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -4580,6 +4580,32 @@
          "imagewidth":32,
          "margin":0,
          "name":"01_mate",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":4205,
+         "image":"..\/..\/H_alles\/Pers\u00f6nlich\/Nicole\/Bild1.png",
+         "imageheight":279,
+         "imagewidth":273,
+         "margin":0,
+         "name":"Bild1",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":4269,
+         "image":"..\/..\/H_alles\/Pers\u00f6nlich\/Nicole\/Bild2.png",
+         "imageheight":53,
+         "imagewidth":52,
+         "margin":0,
+         "name":"Bild2",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
