@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/conf.conet-isb.de\/pages\/viewpageattachments.action?pageId=301400075&metadataLink=true&preview=\/301400075\/375564172\/KreuzUndQuer.pdf"
+                 "value":"https:\/\/github.com\/csteinm\/workadeventure\/blob\/main\/KreuzUndQuer.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
